@@ -10,6 +10,24 @@ Leggi sul PC i tuoi backup email già esportati, anche senza connessione.
 
 [Italiano](#italiano) · [English](#english) · [Español](#español)
 
+## Hai anche documenti, foto e video nel tuo Takeout?
+
+**[Prova l’anteprima Takeout 1.5.0-alpha.1 per Windows x64](https://github.com/aleits2019/Posta-Locale-Download/releases/tag/v1.5.0-alpha.1)** · ZIP portatile, circa 163 MB · versione di prova distinta dalla stabile email 1.4.2.
+
+Nella stessa finestra puoi consultare documenti Drive, foto e video già esportati: ricerca per nome/cartella, anteprime delle foto, piccole miniature dei video e apertura nei programmi associati del PC. Le miniature disponibili dipendono anche da Windows.
+
+**Takeout diviso in tanti ZIP?** Scarica tutte le parti ed estrai ciascuna in una cartella distinta. Nell’anteprima aggiungi le cartelle alla Panoramica. Il catalogo conserva percorsi e metadati senza duplicare foto e video; i file originali devono restare disponibili. Per leggere le email, importa separatamente i file MBOX/EML nella sezione Email. Il catalogo non estrae direttamente i grandi ZIP e non ripristina tutti i servizi Google.
+
+Per avviare l’anteprima, scarica lo ZIP dell’app dalla pagina collegata, estrai **tutta** la cartella e apri **Posta Locale Takeout Sviluppo.exe**. Il nome Sviluppo identifica questa anteprima. Non trasferisce automaticamente gli archivi della versione stabile. Consulta LEGGIMI e checksum nella release prima di provarla su copie dei tuoi dati. I download GitHub non sono firmati digitalmente; non ignorare gli avvisi di Windows.
+
+**English:** [Try the Takeout preview for Windows x64](https://github.com/aleits2019/Posta-Locale-Download/releases/tag/v1.5.0-alpha.1), a separate portable alpha (about 163 MB). Browse previously exported Drive documents, photos and videos in one window. Extract all Takeout ZIP parts into separate folders first, then add those folders in Overview. Import email separately as MBOX/EML in Email. This is not a complete Google restore, does not delete Gmail messages, and does not migrate the stable app’s archives automatically. Extract the entire app ZIP and open **Posta Locale Takeout Sviluppo.exe**. Read the release instructions; GitHub downloads are not digitally signed.
+
+**Español:** [Prueba la versión preliminar Takeout para Windows x64](https://github.com/aleits2019/Posta-Locale-Download/releases/tag/v1.5.0-alpha.1), un alfa portátil independiente (unos 163 MB). Consulta documentos de Drive, fotos y vídeos ya exportados en la misma ventana. Extrae todas las partes ZIP de Takeout en carpetas distintas y añádelas en Resumen. Importa el correo por separado como MBOX/EML. No restaura todos los servicios de Google, no borra Gmail y no migra automáticamente los archivos de la versión estable. Extrae todo el ZIP de la app y abre **Posta Locale Takeout Sviluppo.exe**. Lee las instrucciones; las descargas de GitHub no están firmadas digitalmente.
+
+**Se provi l’app, sei riuscito ad aprire la tua copia? Dove ti sei fermato?** Scrivi a **sostecnogenova@gmail.com** indicando versione, Windows e passaggio. Non inviare backup, email private o password.
+
+La versione stabile email e la sua prova di 30 giorni sono descritte sotto. La versione Takeout è un’anteprima: non viene presentata come un prodotto già certificato da Microsoft.
+
 ## Italiano
 
 Posta Locale legge archivi MBOX, file EML e archivi ZIP/GZIP compatibili già presenti sul computer. Non crea backup, non si collega alla casella Gmail e non cancella messaggi. Per liberare spazio su Gmail devi eliminare tu le email, dopo aver verificato messaggi e allegati nella copia e conservato una seconda copia.
